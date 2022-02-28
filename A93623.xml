@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made to the declared King of Scots, by one of his chaplains at his departure from Breda, to take shipping, with several rules and directions how to behave himself towards the people. Also, the last newes from sea, touching a great Flemish fleet with the King of Scots, and the Duke of Buckingham, their putting in at the Isle of Jersey; together with intelligence from Scotland, and the Isle of Silly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93623</idno>
+            <idno type="STC">Wing S4857</idno>
+            <idno type="STC">Thomason E603_5</idno>
+            <idno type="STC">ESTC R205812</idno>
+            <idno type="EEBO-CITATION">99865074</idno>
+            <idno type="PROQUEST">99865074</idno>
+            <idno type="VID">165650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165650)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made to the declared King of Scots, by one of his chaplains at his departure from Breda, to take shipping, with several rules and directions how to behave himself towards the people. Also, the last newes from sea, touching a great Flemish fleet with the King of Scots, and the Duke of Buckingham, their putting in at the Isle of Jersey; together with intelligence from Scotland, and the Isle of Silly.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. and are to be sold at the Royal Exchange, and without Cripplegate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165650:1" rendition="simple:additions"/>
+            <p>A SPEECH MADE To the Declared King of SCOTS, BY ONE OF HIS CHAPLAINS AT HIS Departure from <hi>Breda,</hi> to take Shipping, with ſeveral Rules and Di<g ref="char:EOLhyphen"/>rections how to behave himſelf to<g ref="char:EOLhyphen"/>wards the People.</p>
+            <p>ALSO, The laſt newes from Sea, touching a great Flemiſh Fleet with the King of <hi>Scots,</hi> and the Duke of <hi>Buckingham,</hi> their putting in at the Iſle of <hi>Jerſey;</hi> together with In<g ref="char:EOLhyphen"/>telligence from <hi>Scotland,</hi> and the Iſle of <hi>Silly.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>J. C.</hi> and are to be ſold at the <hi>Royal Exchange,</hi> and without <hi>Cripplegate,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165650:2"/>
+            <pb n="1" facs="tcp:165650:2"/>
+            <head>A Letter from the <hi>Hague,</hi> touching the King of <hi>Scots,</hi> his taking leave of the Prince of <hi>Orange,</hi> and his Siſter the <hi>Dutchies Dowager</hi> of <hi>Orange,</hi> and his Captains and Servants:</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON <hi>Wedneſday</hi> laſt the tituler King of <hi>Scots</hi> took ſolemn leave of the Prince of <hi>Orange,</hi> (his Brother in Law) and his Siſter, there were many expreſſi<g ref="char:EOLhyphen"/>ons, and real tokens of love and affe<g ref="char:EOLhyphen"/>ction between the <hi>King</hi> and the young <hi>Prince;</hi> but (as ſome obſerved that ſtood by) what paſt between the <hi>Prince</hi> of <hi>Orange</hi> and him, favoured much of complement and outward ſhew. At <hi>Breda</hi> he took his farewel of many of his old Servants, (having en<g ref="char:EOLhyphen"/>tertained new according to the late agreement in the Treaty, his Chaplains being alſo to ſtay behind; one of them made a Speech, the Copy whereof is here in<g ref="char:EOLhyphen"/>cloſed. Theſe ſolemnities over his Highneſs and the
+<pb n="2" facs="tcp:165650:3"/>Duke of <hi>Buckingham</hi> departed together, and its thought they went to <hi>Schevering</hi> to take ſhipping, either for <hi>Scotland</hi> or ſome other place, his intentions for the firſt had been without queſtion, had there not come newſe before his departure, of the proceedings of <hi>Montroſs</hi> in <hi>Scotland,</hi> which put him into a great Delema, which way to ſteere his courſe, ſome perſwading him to go to <hi>Denmark,</hi> and others to one of the Iſlands next unto <hi>England;</hi> which way he goes, a ſhort time will give you knowledge.</p>
+            <closer>
+               <dateline>
+                  <hi>Hague</hi> 
+                  <date>6. <hi>Jan.</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>A Speech delivered to the King of</hi> Scots, <hi>by one of his Captains, when he took his leave at</hi> Breda, <hi>ult</hi> May 1650.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>IF perſons deſcended of a Kingly race, deſire to en<g ref="char:EOLhyphen"/>joy the Patrimony which was their Anceſtors, they ought to ſeek it not by tyrannical wayes, but by means proportionable to the intentions of them who laid thoſe rich foundations; for he that is of a royal race, to enter into his inheritance, the wayes of wiſdom and vertue, are ever the moſt aſſured, and moſt honoura<g ref="char:EOLhyphen"/>ble, and none are fitter to be of that Liſt, then men of ſcience, conſcience, courage, and fidelity, parts belong<g ref="char:EOLhyphen"/>ing to the ornament, ſupport, and maintenance there<g ref="char:EOLhyphen"/>of; and theſe ſeconded by the prerogative of antiqui<g ref="char:EOLhyphen"/>ty, (which age and time beſtowes upon them) are the main pillers whereby royalty ſubſiſteth. To deſcend of royal blood provoketh to virtue, and therefore
+<pb n="3" facs="tcp:165650:3"/>
+               <hi>Chriſt</hi> choſe not to deſcend of the Tribe of <hi>Benjamin,</hi> which was the leaſt, but of the Tribe of <hi>Judah</hi> which was the greater, and according to his example no man ought to boaſt himſelf diſcended of noble anceſtors, without imitation of their virtues, and to preſume no more then to diſcend of noble and royal Parents, is a thing moſt vain; for <hi>Marius</hi> the Conſul ſaith, that he doth inherit very little which doth not inherit the ver<g ref="char:EOLhyphen"/>tues of his prediceſſors. And as your Majeſty ought to follow by example the vertues of your Anceſters; ſo on the contrary to avoid and ſhun their vices, you ought not onely to forbear to do injuries, but to re<g ref="char:EOLhyphen"/>venge them, for that which in the vulger ſort of people is called wrath, in your Majeſty will be named pride: As ought therefore as you ſhall confer with your own Conſcience, and remember from whence you came, you will never be troubled for the offences you have ſmoothered, but for the injuries you ſhall revenge, for the pardoning of injuries, doth give great content to a noble ſpirit; but the deſire of revenge is a continual torment, and many times it happeneth, that ſeeking to revenge a ſmall injury, the party returnes much more injured, and before ſatisfaction can be obtained, there may ariſe other new injuries. My ſelf and ma<g ref="char:EOLhyphen"/>ny others muſt now take leave of your Majeſty, and have not wherewith to ſerve you further then by our prayers, which ſhall ever be for your height of hap<g ref="char:EOLhyphen"/>pineſs, not onely in this World, but that Kingdom which is eternal, and fadeth not away.</p>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:165650:4"/>
+            <head>A LETTER FROM <hi>PLYMO<g ref="char:V">Ʋ</g>TH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Mongſt the variety of Intelli<g ref="char:EOLhyphen"/>gence which floweth at this time in theſe parts, it is lawful to be ignorant of ſomewhat. That which I chiefly deſire to inform you of is, that which we have lately received by ſome Ships that came into this Harbor. As for the fight at Sea, about which I wrote unto you in my laſt: here is not a<g ref="char:EOLhyphen"/>ny full account given thereof as yet. It is be<g ref="char:EOLhyphen"/>lieved, that if any Ship were then taken, it was not Engliſh; for the fight being within ſight of the Iſle of Wyght, if it had been a Friend of ours, ſhe might have run aſhore before the Enemy could have boarded her;
+<pb n="5" facs="tcp:165650:4"/>but that which is ſpoken of amongſt us, is the ſight of a Fleet of ten Sayle of luſty Flemiſh Ships, which were lately diſcerned to ſayle towards the Iſle of Jerſey, two dayes ſince, which are ſuppoſed to be a Guard for the Prince, but whether Vantrump were there in perſon, is not certainly known, though the Ships are conceived to be of his Fleet, and if the Prince were there, the Scots may yet look for their King, and when they ſee him, bid him gued morning for all day; but its likely he is come to conſult with Hopton, and o<g ref="char:EOLhyphen"/>thers of the firſt Edition, whoſe advice hath had but ſlender ſucceſs, when they had better Cardes, and if by the vent (as moſt common<g ref="char:EOLhyphen"/>ly it is) the thing propounded be adjudged good or evil (though much more might be ſaid thereof) what rational man can think that any great matters wil be enterprized by thoſe at this time, which (as Plutarch ſaith) want plenty of young mens launces, and old mens councels, and money which gives mo<g ref="char:EOLhyphen"/>tion to the reſt. If the declared King of Scot<g ref="char:EOLhyphen"/>land be landed in Jerſey, ſurely he wil ſend word to his Subjects there, that the Parlia<g ref="char:EOLhyphen"/>ments ſhips ride ſo thick on the Northern
+<pb n="6" facs="tcp:165650:5"/>Seas, that he could not find any paſſage through them, which peradventure wil very well ſatisfie their greedy deſires, as to that point, but whether he comes to them or not, their deſign muſt go forward. Greenvil lives in the Iſle of Cilly, upon fiſh, and what elſe the Iriſh Pirates bring him, the Iſland not af<g ref="char:EOLhyphen"/>fording ſufficiency of it ſelf, to ſuſtain the In<g ref="char:EOLhyphen"/>habitants without ſupplies by Sea: neither do we hear of any increaſe of forces come lately to him thither.</p>
+            <closer>
+               <dateline>
+                  <hi>Plymouth</hi> 
+                  <date>10. <hi>June,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
